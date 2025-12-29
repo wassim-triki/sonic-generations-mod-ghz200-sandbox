@@ -1,0 +1,11 @@
+# never commit tools/extracted game files
+_WORKSPACE/tools/
+_WORKSPACE/exports/
+*.cpk
+*.ar.00
+*.arl
+*.pdb
+*.log
+
+# keep release clean
+_RELEASE/**/_trash/
