@@ -2,12 +2,13 @@
 _WORKSPACE/tools/
 _WORKSPACE/**/extracted/
 _WORKSPACE/**/base_game_files/
+_WORKSPACE/**/blender/
 
 *.cpk
 
 # Avoid committing large binary build outputs (choose one approach)
 # If you want repo = source only:
-_RELEASE/
+# _RELEASE/
 # OR if you want repo = includes release mod:
 # (don’t ignore _RELEASE, but ignore temp folders)
 **/HedgehogConverter-temp-*/
