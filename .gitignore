@@ -1,6 +1,6 @@
 # Tools / extracted game data
 _WORKSPACE/tools/
-_WORKSPACE/**/exports/*
+_WORKSPACE/**/exports/**
 _WORKSPACE/**/base_game_files/
 _WORKSPACE/**/blender/
 
